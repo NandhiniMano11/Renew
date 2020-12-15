@@ -17,11 +17,11 @@ https://www.getpostman.com/collections/e394de9a72ccf8c80f92
     
 ## sample screens
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/NandhiniMano11/Renew/main/Screenshots/Screenshot%20from%202020-12-15%2023-38-45.png?raw=true)
+![alt text](https://raw.githubusercontent.com/NandhiniMano11/Renew/main/Screenshots/Screenshot%20from%202020-12-15%2023-38-48.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/NandhiniMano11/Renew/main/Screenshots/Screenshot%20from%202020-12-15%2023-39-06.png?raw=true)
+![alt text](https://raw.githubusercontent.com/NandhiniMano11/Renew/main/Screenshots/Screenshot%20from%202020-12-15%2023-39-08.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/NandhiniMano11/Renew/main/Screenshots/Screenshot%20from%202020-12-15%2023-39-23.png?raw=true)
+![alt text](https://raw.githubusercontent.com/NandhiniMano11/Renew/main/Screenshots/Screenshot%20from%202020-12-15%2023-39-25.png?raw=true)
