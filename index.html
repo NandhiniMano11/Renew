@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="container">
+        <hr>
+        <h1>Renewal</h1>
+        <hr>
+    
+        <form action="http://localhost:4000/renewal" method="POST">
+            <div class="form-group">
+                <label for="inputdate">Date</label>
+                <input class="form-control" name="inputdate">
+            </div>
+    <br>
+            <div class="form-group">
+                <label for="type">Type</label>
+                <select class="form-control"  id="type" name="type">
+                    <option value="1">Postpaid</option>
+                    <option value="2">Prepaid</option>
+                  </select>
+            </div>
+    <br>
+            <!--Other fields-->
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html> 
